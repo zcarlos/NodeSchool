@@ -1,3 +1,4 @@
+// Synchronous reading file
 var fs = require('fs');
 
 var buf = fs.readFileSync(process.argv[2]);
