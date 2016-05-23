@@ -1,0 +1,29 @@
+{
+  "name": "node-globe",
+  "version": "1.0.0",
+  "description": "TODO",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pmvrmc/node-globe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pmvrmc/node-globe/issues"
+  },
+  "homepage": "https://github.com/pmvrmc/node-globe#readme",
+  "dependencies": {
+    "async": "^2.0.0-rc.5",
+    "hapi": "^13.4.1",
+    "inert": "^4.0.0",
+    "lodash": "^4.12.0",
+    "request": "^2.72.0",
+    "swig": "^1.4.2",
+    "tabletop": "^1.4.3",
+    "vision": "^4.1.0"
+  }
+}
